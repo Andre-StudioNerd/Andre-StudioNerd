@@ -1,8 +1,8 @@
- ## Eu sou André Luís Fernandes
+ ## Eu sou: André Luís Fernandes
 
-Eu sou desenvolvedor web especialista em HTML5, CSS3, Javascript, React, PHP, mysql e WordPress.
+<p>Eu sou desenvolvedor web especialista em HTML5, CSS3, Javascript, React, PHP, mysql e WordPress.
 Eu possuo amplos conhecimento em gerenciamento de banco de dados utilizando o SQL.
-Sou um Profissional que trabalha com criação de Sites, Landing Pages, Blogs e Lojas Virtuais. 
+Sou um Profissional que trabalha com criação de Sites, Landing Pages, Blogs e Lojas Virtuais. </p>
 Do mesmomodo trabalho também com a criação de identidade visual, logos, artes para redes sociais,interfaces digitais de softwares, jogos e aplicativos. 
 Sou formado em Tecnólogo em Processamento de dados pela FATEC e atualmente estou no último periodo em marketing pelo senac. 
 Já trabalhei como professor de informática, tecnico de computadores e atualmente sou desenvolvedor web e tarablho como PJ.
