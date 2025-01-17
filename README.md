@@ -4,9 +4,9 @@
 Eu possuo amplos conhecimento em gerenciamento de banco de dados utilizando o SQL.
 Sou um Profissional que trabalha com criação de Sites, Landing Pages, Blogs e Lojas Virtuais. </p>
 <p>Do mesmomodo trabalho também com a criação de identidade visual, logos, artes para redes sociais,interfaces digitais de softwares, jogos e aplicativos. 
-Sou formado em Tecnólogo em Processamento de dados pela FATEC e atualmente estou no último periodo em marketing pelo senac. 
+Sou formado em Tecnólogo em Processamento de dados pela FATEC. Eu também sou formado em marketing pelo SENAC. 
 Já trabalhei como professor de informática, técnico de computadores e atualmente sou desenvolvedor web e tarablho como PJ.
-Eu também sou formado em marketing pelo SENAC.</p>
+</p>
 <p>Sou uma pessoa racional e analítica, que sempre tenta a pensar de forma cuidadosa e lógica. 
 Sou também uma pessoa tímida, mas isso não me impede de  expressar minha criatividade. Eu tenho
 uma paixão por filmes, séries, quadrinhos, livros e rock. 
