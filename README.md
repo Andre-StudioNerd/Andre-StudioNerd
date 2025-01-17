@@ -3,14 +3,14 @@
 <p>Eu sou desenvolvedor web especialista em HTML5, CSS3, Javascript, React, PHP, mysql e WordPress.
 Eu possuo amplos conhecimento em gerenciamento de banco de dados utilizando o SQL.
 Sou um Profissional que trabalha com criação de Sites, Landing Pages, Blogs e Lojas Virtuais. </p>
-Do mesmomodo trabalho também com a criação de identidade visual, logos, artes para redes sociais,interfaces digitais de softwares, jogos e aplicativos. 
+<p>Do mesmomodo trabalho também com a criação de identidade visual, logos, artes para redes sociais,interfaces digitais de softwares, jogos e aplicativos. 
 Sou formado em Tecnólogo em Processamento de dados pela FATEC e atualmente estou no último periodo em marketing pelo senac. 
 Já trabalhei como professor de informática, tecnico de computadores e atualmente sou desenvolvedor web e tarablho como PJ.
-Eu também sou formado em marketing pelo SENAC.
-Sou uma pessoa racional e analítica, que sempre tenta a pensar de forma cuidadosa e lógica. 
+Eu também sou formado em marketing pelo SENAC.</p>
+<p>Sou uma pessoa racional e analítica, que sempre tenta a pensar de forma cuidadosa e lógica. 
 Sou também uma pessoa tímida, mas isso não me impede de  expressar minha criatividade. Eu tenho
 uma paixão por filmes, séries, quadrinhos, livros e rock. 
-Essas formas de arte me dão inspiração e uma maneira de explorar  os diferentes pontos  de vista. 
+Essas formas de arte me dão inspiração e uma maneira de explorar  os diferentes pontos  de vista. </p>
 
 
 <div style="display: inline_block"><br>
