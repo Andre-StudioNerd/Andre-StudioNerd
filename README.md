@@ -26,10 +26,9 @@ Essas formas de arte me dão inspiração e uma maneira de explorar  os diferent
  <img align="center" alt="andre-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
   
-  ##
+  ## Minhas Redes
  
 <div> 
-  
   <a href="https://www.linkedin.com/in/andrelfernan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
