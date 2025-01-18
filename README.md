@@ -14,6 +14,7 @@ Essas formas de arte me dão inspiração e uma maneira de explorar  os diferent
 
 
 <div style="display: inline_block"><br>
+  ## Minhas Tecnologias
   <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +24,6 @@ Essas formas de arte me dão inspiração e uma maneira de explorar  os diferent
   <img align="center" alt="andre-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="andre-wp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="andre-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-
 </div>
   
   ##
