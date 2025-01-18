@@ -12,9 +12,9 @@ Sou também uma pessoa tímida, mas isso não me impede de  expressar minha cria
 uma paixão por filmes, séries, quadrinhos, livros e rock. 
 Essas formas de arte me dão inspiração e uma maneira de explorar  os diferentes pontos  de vista. </p>
 
+## Minhas Tecnologias
 
 <div style="display: inline_block"><br>
-  ## Minhas Tecnologias
   <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
